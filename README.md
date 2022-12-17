@@ -11,4 +11,4 @@ This agenda has different options pressing a number from 0 to 9:
 6. Adding a new person
 7. Outputs every person with an identic prefic
 8. Changing data for a contact
-9. total number of contacts
+9. Total number of contacts
